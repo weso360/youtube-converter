@@ -66,7 +66,3 @@ This script utilizes the following libraries:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-You can save this content in a file named `README.md` in your project directory. Make sure to replace "your_username" and "your_repository" with your actual GitHub username and repository name, respectively. Feel free to customize the content as needed!
