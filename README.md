@@ -1,8 +1,6 @@
-Certainly! Here's a README file for your script:
 
----
 
-# YouTube to MP3 Downloader and Converter
+# YouTube Downloader and Converter
 
 This Python script allows you to download a YouTube video as an MP4 file and then convert it to an MP3 audio file.
 
